@@ -4,6 +4,8 @@ This repository contains a Kaggle-based implementation for detecting **duplicate
 
 The goal is to predict whether two given questions are semantically similar - a critical task for platforms to avoid redundant questions.
 
+[View on Kaggle](https://www.kaggle.com/code/raghavtandon1305/predicting-duplicate-pair-transformers)
+
 ---
 
 ## Table of Contents
